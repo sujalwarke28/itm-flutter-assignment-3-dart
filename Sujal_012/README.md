@@ -264,7 +264,7 @@ Building a complete console-based application
 
 Author
 
-Sneha Hande
+Sujal Warke
 
 B.Tech Computer Science Engineering
 ITM Skills University
